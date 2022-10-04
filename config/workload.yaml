@@ -12,6 +12,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: https://github.com/sample-accelerators/daniel-java-web-app
+      url: https://github.com/leichus/nyc-hackathon-2022
       ref:
-        branch: main
+        branch: master
